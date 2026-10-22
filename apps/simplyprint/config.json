@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schemas.runtipi.io/app-info.json",
+  "name": "SimplyPrint Client",
+  "id": "simplyprint-client",
+  "available": true,
+  "short_desc": "Client local care conectează imprimantele 3D la SimplyPrint",
+  "author": "SimplyPrint",
+  "port": 8000,
+  "categories": ["utilities"],
+  "description": "SimplyPrint Client rulează în rețeaua locală și leagă imprimantele 3D de contul tău SimplyPrint.",
+  "tipi_version": 1,
+  "version": "latest",
+  "source": "https://github.com/CosminC82/runtipi-apps/simplyprint",
+  "exposable": false,
+  "force_expose": false,
+  "supported_architectures": ["amd64", "arm64"],
+  "form_fields": []
+}
